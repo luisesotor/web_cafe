@@ -222,7 +222,7 @@ img{
     color: var(--blanco);
     text-transform: uppercase;
 }
-.envio {
+.correcto {
     background-color: rgb(1, 97, 6);
     text-align: center;
     padding: 1rem;
